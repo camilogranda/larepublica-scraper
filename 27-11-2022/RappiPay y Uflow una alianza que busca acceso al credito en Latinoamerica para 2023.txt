@@ -1,0 +1,19 @@
+RappiPay y Uflow una alianza que busca acceso al crédito en Latinoamérica para 2023
+
+RappiPay ya está activa en todos los mercados latinoamericanos y cuenta con más de 800.000 usuarios que esperan duplicar para el próximo año
+
+RappiPay y uFlow se aliaron para implementar Motores de Decisiones que automatizan los procesos de evaluación crediticia de RappiPay y les permite a los usuarios acceder de forma más eficiente y rápida a su tarjeta de crédito RappiCard.
+Algunos de los beneficios de este producto son
+: no tener cuota de manejo, permitir la devolución de 1% de cashback en cada compra, o devolver hasta 5% de las compras al adquirir vuelos, reservas en hoteles o rentar carros directamente en el botón de ‘Rappi Travel’ dentro de la aplicación de Rappi.
+Laura Apicella, CRO (Chief Risk Officer) de RappiPay, señaló que encontraron en uFlow un aliado que les permitió implementar de forma acelerada un motor de evaluaciones de riesgos, adaptándose a las necesidades de avanzar ágilmente, manteniendo la transparencia y seguridad que el negocio requiere.
+“Haber implementado este motor de decisiones nos permitió desarrollar más rápidamente nuevas funcionalidades de producto.
+ Adicionalmente, contar con soporte técnico constante aceleró aún más la integración y nos brinda desde el inicio el asesoramiento requerido que nos permite volver más eficientes los procesos de evaluación, sumado a la tranquilidad de contar con respuesta ante cualquier necesidad en tiempo real”, añadió Apicella.
+Este motor de decisiones es 100% cloud y utiliza los servicios de AWS (Amazon Web Services) para permitirles a los equipos de riesgos y créditos de cualquier entidad financiera, bien sean bancos, neobancos, fintechs o retails, hacer cambios en las reglas o modelos que automatizan el otorgamiento de préstamos a personas y empresas.
+Añadieron que con él también se pueden analizar los datos de cada usuario en una milésima de segundo dentro de los burós de crédito, implementar de forma ágil y No-Code las políticas de riesgos, integrarse con proveedores de datos alternativos e implementar modelos de Inteligencia Artificial.
+"
+El motor además brinda una gran estabilidad que asegura la continuidad del negocio, habilita la toma de decisiones con base en información,
+ unifica criterios de aprobación y rechazo, ofrece gran agilidad en tiempos de respuesta, permite la automatización y la eficiencia del proceso de toma de decisiones crediticias, generando un considerable incremento en las ventas. Por otra parte, permite desarrollar y autogestionar políticas sin depender del área de IT, optimizando las operaciones al sumar capacidades de análisis, reglas, modelos, y fuentes de datos", aseguraron.
+RappiPay ya está activa en todos los mercados latinoamericanos y cuenta con más de 800.000 usuarios que esperan duplicar para el próximo año
+, teniendo en cuenta que cuentan con herramientas digitales para apostar a nuevos productos financieros con la facilidad, transparencia, seguridad, beneficios y atención personalizada que ya les ha caracterizado en el mercado.
+Mariano Sokal, founder y managing director de uFlow, resalta que el estar junto a uno de los grandes jugadores del sector Fintech les llena de orgullo, ya que pueden cumplir su propósito principal de implementar soluciones que faciliten a las personas acceder al mercado financiero.
+“Si bien nuestro servicio de tecnología puede verse detrás de bambalinas en diferentes compañías dentro del ecosistema financiero, sabemos que agilizar y automatizar la toma de decisiones, incorporar múltiples fuentes de datos, y permitirles a las entidades financieras contar de una forma más simple con la mayor información posible acerca de las personas o empresas que solicitan créditos, es una oportunidad para mejorar el acceso al crédito, al automatizar la toma de decisiones, y evitar el error y la subjetividad humana”, destacó el directivo.

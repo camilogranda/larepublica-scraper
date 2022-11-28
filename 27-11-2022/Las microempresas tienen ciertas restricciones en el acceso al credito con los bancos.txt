@@ -1,0 +1,17 @@
+Las microempresas tienen ciertas restricciones en el acceso al crédito con los bancos
+
+El score de crédito es fundamental para las entidades bancarias al momento de otorgar beneficios crediticios para las compañías
+
+El 
+acceso a crédito
+, principalmente para las empresas, suele estar ligado al score crediticio con el que disponen. Este suele aplicarse de acuerdo al tamaño de cada compañía, lo que se convierte en un factor protagónico para las entidades al momento de solicitar un crédito, ya sea en bancos, CFC, o cooperativas.
+Según los resultados de la Encuesta trimestral sobre la situación del crédito en Colombia, realizada por el Banco de la República, con corte a septiembre de 2022, las empresas grandes mostraron un buen acceso al crédito en bancos y CFC, y un acceso reducido en las cooperativas.
+Esto puede explicarse, por el respaldo a la deuda asociado a los flujos de caja que tienen las empresas más grandes, “en función de la certeza que se tenga sobre la estabilidad futura del negocio, mayor será la capacidad de endeudamiento, por ende mejor el score crediticio y un mejor acceso a ese mercado financiero tanto de deuda pública como de créditos tradicionales”, asegura Alexander Rios, asesor financiero.
+En cuanto a las empresas medianas, se observa un buen acceso para los bancos, mientras que el indicador se redujo en las CFC y fue calificado como estable por las cooperativas. Lo que también se relaciona con el reducido porcentaje de riesgo que manejan.
+Para el caso de las micro y pequeñas empresas se obtuvieron resultados similares a los de del trimestre anterior, los cuales se centraron en buen acceso en las cooperativas, y acceso reducido en bancos y CFC.
+Expertos explican que las pequeñas empresas tienen un problema de incertidumbre asociado a sus flujos de caja a futuro,por lo que presentan mayores dificultades al momento de solicitar y obtener aprobación de créditos con esas entidades.
+Por ello, “son un segmento atendido por sectores microfinancieros, con unas tasas excesivamente altas, para poder compensar el riesgo asociado a esos flujos futuros propios de su negocio”, completa Rios.
+Sin embargo, para las micro y pequeñas empresas existen soluciones adicionales a las cooperativas, como las 
+fintech
+, que son un poco más flexibles con el score de crédito gracias a las tecnologías que manejan.
+Tal es el caso de Tangelo, una compañía que desarrolla modelos de riesgo alternativos para ampliar el acceso a crédito. “Estos modelos de evaluación tienen en cuenta variables y fuentes de información que los modelos tradicionales no usan, lo cual nos permite evaluar el riesgo de manera más robusta y así ampliar el rango de empresas aprobadas. El componente de machine learning de nuestra tecnología permite que esos modelos sigan aprendiendo de sí mismos y refinando su precisión para posibilitar nuevos sujetos de crédito”, destaca Alejandro Monzó, co-CEO Tangelo.
